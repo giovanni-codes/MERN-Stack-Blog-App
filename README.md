@@ -4,7 +4,7 @@ Remember to use npm run dev to start!
 
 
 ### Blog post in action:
-![alt text]([https://i.ibb.co/nmfbNmf/Screenshot-131.png](https://i.ibb.co/1QsWBLW/Screenshot-130.png))
+![alt text](https://i.ibb.co/1QsWBLW/Screenshot-130.png)
 
 
 ### Picture of server side:
